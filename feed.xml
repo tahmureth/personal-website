@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Tahmureth</title>
+    <link href="https://tahmureth.xyz/feed.xml" rel="self" />
+    <link href="https://tahmureth.xyz" />
+    <updated>۱۹۷۰-۰۱-۰۱T۰۳:۳۰:۰۰+۰۳:۳۰</updated>
+    <author>
+        <name>تهمورث</name>
+    </author>
+    <id>https://tahmureth.xyz</id>
+
+</feed>
